@@ -2,6 +2,8 @@ RMO-ROrr
 
 Roland Orr
 
+My project can be viewed at http://roeorr.github.io/RMO-Website/index.html .
+
 The media I clips I generated were the teleporting girl, radio broadcast, and radio infomercial. These clips can be found in the media folder of my project.
 
 Teleporting Girl clip shows a girl transporting a guy out of the middle of the street.
